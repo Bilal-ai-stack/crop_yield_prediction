@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "crop_yield_prediction",
+			"path": "../crop_yield_prediction"
+		}
+	],
+	"settings": {}
+}
